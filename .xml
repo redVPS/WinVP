@@ -1,0 +1,66 @@
+[33mcommit 1561f63b6f0395f646c12a19382a8200ac16c534[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: redVPS <vponline9@gmail.com>
+Date:   Fri Feb 16 16:23:38 2024 +0530
+
+    file5_commit
+
+[33mcommit 78411e9876194c35d6c94d1a75d180b833537347[m
+Author: redVPS <vponline9@gmail.com>
+Date:   Fri Feb 16 16:23:31 2024 +0530
+
+    file4_commit
+
+[33mcommit 470db0ecbc4d49f1d98907a6c21b2509cc4a6d37[m
+Author: redVPS <vponline9@gmail.com>
+Date:   Fri Feb 16 14:00:51 2024 +0530
+
+    file3_commit
+
+[33mcommit 40de4083544da41f1c7bfc1292af24883630e6a6[m
+Author: redVPS <vponline9@gmail.com>
+Date:   Fri Feb 16 13:58:14 2024 +0530
+
+    file2_commit
+
+[33mcommit 4824e47d15262d604fd53d3b0c1b0d95da7006f2[m
+Author: redVPS <vponline9@gmail.com>
+Date:   Fri Feb 16 13:57:51 2024 +0530
+
+    file1_commit
+
+[33mcommit 6cb7decd517bba10b619ac78e79eccb436604d48[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: f90e05b f251e41
+Author: redVPS <vponline9@gmail.com>
+Date:   Wed Feb 7 11:54:14 2024 +0530
+
+    merge resolved local
+
+[33mcommit f251e4114a10c6a871a3b256b1df7fde6733e8d0[m
+Author: redVPS <vponline9@gmail.com>
+Date:   Tue Feb 6 15:00:11 2024 +0530
+
+    edited in branch1
+
+[33mcommit f90e05b7fd32d44073d9b1884097648b9e1c1777[m
+Author: redVPS <vponline9@gmail.com>
+Date:   Tue Feb 6 14:51:06 2024 +0530
+
+    deleted and replaced lineC
+
+[33mcommit ff3ebf4c75f00ea2322f86d73e1a3c6ba514f5ab[m
+Author: redVPS <vponline9@gmail.com>
+Date:   Tue Feb 6 14:48:00 2024 +0530
+
+    changed f1 file 2nd time
+
+[33mcommit b69b478a7635827fbf21078a8cf21d539a0fa248[m
+Author: redVPS <vponline9@gmail.com>
+Date:   Tue Feb 6 14:44:30 2024 +0530
+
+     change f1 file
+
+[33mcommit ebcfb51d55f47fcd771d034aa44755488c6fcb53[m
+Author: redVPS <vponline9@gmail.com>
+Date:   Tue Feb 6 12:32:23 2024 +0530
+
+    1st bash commit
