@@ -6,3 +6,5 @@
 /file3 filter=lfs diff=lfs merge=lfs -text
 /file4 filter=lfs diff=lfs merge=lfs -text
 /file5 filter=lfs diff=lfs merge=lfs -text
+*.xml filter=lfs diff=lfs merge=lfs -text
+/t1 filter=lfs diff=lfs merge=lfs -text
