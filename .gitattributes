@@ -10,3 +10,4 @@
 /t1 filter=lfs diff=lfs merge=lfs -text
 /t2 filter=lfs diff=lfs merge=lfs -text
 /t3 filter=lfs diff=lfs merge=lfs -text
+/largefile filter=lfs diff=lfs merge=lfs -text
